@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ln07x&#39;blog</title>
+  
+  <subtitle>想到什么就写什么ʕ ᵔᴥᵔ ʔ所以可能看起来有点乱</subtitle>
+  <link href="https://ln07x.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ln07x.github.io/"/>
+  <updated>2025-10-19T16:26:43.221Z</updated>
+  <id>https://ln07x.github.io/</id>
+  
+  <author>
+    <name>ln07x</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>部署博客遇到的一个小问题</title>
+    <link href="https://ln07x.github.io/posts/problems/"/>
+    <id>https://ln07x.github.io/posts/problems/</id>
+    <published>2025-10-08T00:00:00.000Z</published>
+    <updated>2025-10-19T16:26:43.221Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客方案">博客方案</h1><h1 id="遇到的问题">遇到的问题</h1><h1 id="解决方法">解决方法</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;博客方案&quot;&gt;博客方案&lt;/h1&gt;
+&lt;h1 id=&quot;遇到的问题&quot;&gt;遇到的问题&lt;/h1&gt;
+&lt;h1 id=&quot;解决方法&quot;&gt;解决方法&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="边角拾遗" scheme="https://ln07x.github.io/categories/%E8%BE%B9%E8%A7%92%E6%8B%BE%E9%81%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>空气动力学初尝试</title>
+    <link href="https://ln07x.github.io/posts/Aerodynamics_01/"/>
+    <id>https://ln07x.github.io/posts/Aerodynamics_01/</id>
+    <published>2025-10-07T00:00:00.000Z</published>
+    <updated>2025-10-19T16:26:43.221Z</updated>
+    
+    <content type="html"><![CDATA[<p>123123</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;123123&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="代码开发" scheme="https://ln07x.github.io/categories/%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="流体力学" scheme="https://ln07x.github.io/tags/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/"/>
+    
+    <category term="Python" scheme="https://ln07x.github.io/tags/Python/"/>
+    
+  </entry>
+  
+</feed>
